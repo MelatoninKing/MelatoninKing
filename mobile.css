@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Gentium+Basic:400,400i,700|Montserrat:400,400i,700');
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: auto;
+  background: #ededed;
+  color: #222222;
+}
+
+h1 {
+  font-family: "Gentium Basic", serif;
+  font-weight: 400;
+  font-size: 33px;
+  margin: auto 5%;
+}
+
+#subtitle {
+  margin: auto 5%;
+  font-size: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+header {
+  position: sticky;
+  top: 0px;
+  background: #222222;
+  color: #ededed;
+  text-align: left;
+  padding: 15px 0px;
+}
+
+h2 {
+  font-family: "Gentium Basic", serif;
+  font-size: 30px;
+  font-weight: 400;
+  margin: 20px 5%;
+}
+
+p {
+  margin: 20px 5%;
+}
