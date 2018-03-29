@@ -85,6 +85,8 @@ img {
   z-index:1;
 }
 #centeredmenu ul {
+  width: 100%;
+  border-bottom: 1px #acacac solid;
   clear:left;
   float:left;
   list-style:none;
