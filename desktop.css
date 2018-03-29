@@ -78,6 +78,7 @@ img {
 
 #centeredmenu {
   margin: auto;
+  margin-bottom: 15px;
   float:left;
   width: 60%;
   overflow:hidden;
