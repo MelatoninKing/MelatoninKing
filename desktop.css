@@ -77,14 +77,11 @@ img {
 }
 
 #centeredmenu {
-  margin: auto;
-  margin-bottom: 15px;
   float:left;
-  width: 60%;
+  width: 100%;
   overflow:hidden;
   position:relative;
   overflow: hidden;
-  border-bottom: 1px #acacac solid;
   z-index:1;
 }
 #centeredmenu ul {
